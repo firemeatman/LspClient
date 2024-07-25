@@ -1,10 +1,10 @@
 ﻿# lsp-cpp
 
-该项目从 "lsp-cpp项目(An easy language-server-protocol client)"Fork而来。源项目：https://github.com/alextsao1999/lsp-cpp
+该项目从 "lsp-cpp项目(An easy language-server-protocol client)"Fork而来。(源项目：[https://github.com/alextsao1999/lsp-cpp])。但由于源项目不更新，故本项目独立了出来。
 
 源项目是一个十分简单的Lsp语言客户端，通俗易懂，但是不太完善，而且停止了维护。而官方的LspCpp有点庞大又不太用的来。
 
-所以，本项目的目的是基于lsp-cpp项目进行完善和扩展，包括跨平台支持、模块化改造、协议扩充等。由于源项目不更新，故本项目独立了出来。
+所以，本项目的目的是基于lsp-cpp项目进行完善和扩展，包括跨平台支持、模块化改造、协议扩充等。
 
 
 # 1.平台支持
