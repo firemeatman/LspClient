@@ -1,6 +1,7 @@
 ﻿# lsp-cpp
 
-该项目从 "lsp-cpp项目(An easy language-server-protocol client)"Fork而来。(源项目：[https://github.com/alextsao1999/lsp-cpp])。但由于源项目不更新，故本项目独立了出来。
+该项目从 "lsp-cpp项目(An easy language-server-protocol client)"Fork而来，源项目[https://github.com/alextsao1999/lsp-cpp]。
+但由于源项目不更新，故本项目独立了出来。
 
 源项目是一个十分简单的Lsp语言客户端，通俗易懂，但是不太完善，而且停止了维护。而官方的LspCpp有点庞大又不太用的来。
 
